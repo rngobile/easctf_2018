@@ -1,0 +1,558 @@
++======================================================================+
+| Welcome to Zippy! We love US zip codes, so we'll be asking you some  |
+| simple facts about them, based on the 2010 Census. Only the          |
+| brightest zip-code fanatics among you will be able to succeed!       |
+| You'll have 30 seconds to answer 50 questions correctly.             |
++======================================================================+
+
+3... 2... 1...  Go!
+
+Round  1 / 50
+  What is the latitude (degrees) of the zip code 49883? 
+46.431726
+
+That's correct!
+
+Round  2 / 50
+  What is the longitude (degrees) of the zip code 22840? 
+
+That's correct!
+
+Round  2 / 50
+  What is the longitude (degrees) of the zip code 22840? 
+-78.716762
+
+That's correct!
+
+Round  3 / 50
+  What is the longitude (degrees) of the zip code 47396? 
+
+That's correct!
+
+Round  3 / 50
+  What is the longitude (degrees) of the zip code 47396? 
+-85.517178
+
+That's correct!
+
+Round  4 / 50
+  What is the latitude (degrees) of the zip code 78252? 
+
+That's correct!
+
+Round  4 / 50
+  What is the latitude (degrees) of the zip code 78252? 
+29.341337
+
+That's correct!
+
+Round  5 / 50
+  What is the land area (m^2) of the zip code 80910? 
+
+That's correct!
+
+Round  5 / 50
+  What is the land area (m^2) of the zip code 80910? 
+15024086
+
+That's correct!
+
+Round  6 / 50
+  What is the longitude (degrees) of the zip code 01522? 
+
+That's correct!
+
+Round  6 / 50
+  What is the longitude (degrees) of the zip code 01522? 
+-71.867382
+
+That's correct!
+
+Round  7 / 50
+  What is the longitude (degrees) of the zip code 15693? 
+
+That's correct!
+
+Round  7 / 50
+  What is the longitude (degrees) of the zip code 15693? 
+-79.407701
+
+That's correct!
+
+Round  8 / 50
+  What is the longitude (degrees) of the zip code 76941? 
+
+That's correct!
+
+Round  8 / 50
+  What is the longitude (degrees) of the zip code 76941? 
+-100.889468
+
+That's correct!
+
+Round  9 / 50
+  What is the water area (m^2) of the zip code 87312? 
+
+That's correct!
+
+Round  9 / 50
+  What is the water area (m^2) of the zip code 87312? 
+0
+
+That's correct!
+
+Round 10 / 50
+  What is the land area (m^2) of the zip code 82073? 
+
+That's correct!
+
+Round 10 / 50
+  What is the land area (m^2) of the zip code 82073? 
+5094
+
+That's correct!
+
+Round 11 / 50
+  What is the land area (m^2) of the zip code 30223? 
+
+That's correct!
+
+Round 11 / 50
+  What is the land area (m^2) of the zip code 30223? 
+280545698
+
+That's correct!
+
+Round 12 / 50
+  What is the longitude (degrees) of the zip code 06248? 
+
+That's correct!
+
+Round 12 / 50
+  What is the longitude (degrees) of the zip code 06248? 
+-72.409107
+
+That's correct!
+
+Round 13 / 50
+  What is the latitude (degrees) of the zip code 13863? 
+
+That's correct!
+
+Round 13 / 50
+  What is the latitude (degrees) of the zip code 13863? 
+42.455495
+
+That's correct!
+
+Round 14 / 50
+  What is the latitude (degrees) of the zip code 59313? 
+
+That's correct!
+
+Round 14 / 50
+  What is the latitude (degrees) of the zip code 59313? 
+46.309664
+
+That's correct!
+
+Round 15 / 50
+  What is the land area (m^2) of the zip code 80003? 
+
+That's correct!
+
+Round 15 / 50
+  What is the land area (m^2) of the zip code 80003? 
+17648602
+
+That's correct!
+
+Round 16 / 50
+  What is the latitude (degrees) of the zip code 47114? 
+
+That's correct!
+
+Round 16 / 50
+  What is the latitude (degrees) of the zip code 47114? 
+38.285817
+
+That's correct!
+
+Round 17 / 50
+  What is the longitude (degrees) of the zip code 30341? 
+
+That's correct!
+
+Round 17 / 50
+  What is the longitude (degrees) of the zip code 30341? 
+-84.288866
+
+That's correct!
+
+Round 18 / 50
+  What is the land area (m^2) of the zip code 78739? 
+
+That's correct!
+
+Round 18 / 50
+  What is the land area (m^2) of the zip code 78739? 
+29613883
+
+That's correct!
+
+Round 19 / 50
+  What is the latitude (degrees) of the zip code 41144? 
+
+That's correct!
+
+Round 19 / 50
+  What is the latitude (degrees) of the zip code 41144? 
+38.539423
+
+That's correct!
+
+Round 20 / 50
+  What is the latitude (degrees) of the zip code 35565? 
+
+That's correct!
+
+Round 20 / 50
+  What is the latitude (degrees) of the zip code 35565? 
+34.237259
+
+That's correct!
+
+Round 21 / 50
+  What is the latitude (degrees) of the zip code 50140? 
+
+That's correct!
+
+Round 21 / 50
+  What is the latitude (degrees) of the zip code 50140? 
+40.645520
+
+That's correct!
+
+Round 22 / 50
+  What is the latitude (degrees) of the zip code 36301? 
+
+That's correct!
+
+Round 22 / 50
+  What is the latitude (degrees) of the zip code 36301? 
+31.140068
+
+That's correct!
+
+Round 23 / 50
+  What is the latitude (degrees) of the zip code 36616? 
+
+That's correct!
+
+Round 23 / 50
+  What is the latitude (degrees) of the zip code 36616? 
+30.724504
+
+That's correct!
+
+Round 24 / 50
+  What is the water area (m^2) of the zip code 31566? 
+
+That's correct!
+
+Round 24 / 50
+  What is the water area (m^2) of the zip code 31566? 
+1984831
+
+That's correct!
+
+Round 25 / 50
+  What is the latitude (degrees) of the zip code 73716? 
+
+That's correct!
+
+Round 25 / 50
+  What is the latitude (degrees) of the zip code 73716? 
+36.499454
+
+That's correct!
+
+Round 26 / 50
+  What is the longitude (degrees) of the zip code 79788? 
+
+That's correct!
+
+Round 26 / 50
+  What is the longitude (degrees) of the zip code 79788? 
+-102.976850
+
+That's correct!
+
+Round 27 / 50
+  What is the latitude (degrees) of the zip code 06524? 
+
+That's correct!
+
+Round 27 / 50
+  What is the latitude (degrees) of the zip code 06524? 
+41.422964
+
+That's correct!
+
+Round 28 / 50
+  What is the latitude (degrees) of the zip code 01253? 
+
+That's correct!
+
+Round 28 / 50
+  What is the latitude (degrees) of the zip code 01253? 
+42.206683
+
+That's correct!
+
+Round 29 / 50
+  What is the land area (m^2) of the zip code 24133? 
+
+That's correct!
+
+Round 29 / 50
+  What is the land area (m^2) of the zip code 24133? 
+112105546
+
+That's correct!
+
+Round 30 / 50
+  What is the latitude (degrees) of the zip code 55601? 
+
+That's correct!
+
+Round 30 / 50
+  What is the latitude (degrees) of the zip code 55601? 
+47.236844
+
+That's correct!
+
+Round 31 / 50
+  What is the latitude (degrees) of the zip code 21042? 
+
+That's correct!
+
+Round 31 / 50
+  What is the latitude (degrees) of the zip code 21042? 
+39.277181
+
+That's correct!
+
+Round 32 / 50
+  What is the latitude (degrees) of the zip code 49755? 
+
+That's correct!
+
+Round 32 / 50
+  What is the latitude (degrees) of the zip code 49755? 
+45.634591
+
+That's correct!
+
+Round 33 / 50
+  What is the water area (m^2) of the zip code 18846? 
+
+That's correct!
+
+Round 33 / 50
+  What is the water area (m^2) of the zip code 18846? 
+1738306
+
+That's correct!
+
+Round 34 / 50
+  What is the longitude (degrees) of the zip code 58477? 
+
+That's correct!
+
+Round 34 / 50
+  What is the longitude (degrees) of the zip code 58477? 
+-100.504652
+
+That's correct!
+
+Round 35 / 50
+  What is the land area (m^2) of the zip code 22508? 
+
+That's correct!
+
+Round 35 / 50
+  What is the land area (m^2) of the zip code 22508? 
+143471299
+
+That's correct!
+
+Round 36 / 50
+  What is the longitude (degrees) of the zip code 38588? 
+
+That's correct!
+
+Round 36 / 50
+  What is the longitude (degrees) of the zip code 38588? 
+-85.730671
+
+That's correct!
+
+Round 37 / 50
+  What is the latitude (degrees) of the zip code 75238? 
+
+That's correct!
+
+Round 37 / 50
+  What is the latitude (degrees) of the zip code 75238? 
+32.878497
+
+That's correct!
+
+Round 38 / 50
+  What is the latitude (degrees) of the zip code 77571? 
+
+That's correct!
+
+Round 38 / 50
+  What is the latitude (degrees) of the zip code 77571? 
+29.688431
+
+That's correct!
+
+Round 39 / 50
+  What is the water area (m^2) of the zip code 14416? 
+
+That's correct!
+
+Round 39 / 50
+  What is the water area (m^2) of the zip code 14416? 
+240617
+
+That's correct!
+
+Round 40 / 50
+  What is the longitude (degrees) of the zip code 56288? 
+
+That's correct!
+
+Round 40 / 50
+  What is the longitude (degrees) of the zip code 56288? 
+-94.951460
+
+That's correct!
+
+Round 41 / 50
+  What is the latitude (degrees) of the zip code 88414? 
+
+That's correct!
+
+Round 41 / 50
+  What is the latitude (degrees) of the zip code 88414? 
+36.776962
+
+That's correct!
+
+Round 42 / 50
+  What is the water area (m^2) of the zip code 98466? 
+
+That's correct!
+
+Round 42 / 50
+  What is the water area (m^2) of the zip code 98466? 
+2149972
+
+That's correct!
+
+Round 43 / 50
+  What is the latitude (degrees) of the zip code 15377? 
+
+That's correct!
+
+Round 43 / 50
+  What is the latitude (degrees) of the zip code 15377? 
+39.988469
+
+That's correct!
+
+Round 44 / 50
+  What is the longitude (degrees) of the zip code 42452? 
+
+That's correct!
+
+Round 44 / 50
+  What is the longitude (degrees) of the zip code 42452? 
+-87.531672
+
+That's correct!
+
+Round 45 / 50
+  What is the latitude (degrees) of the zip code 88032? 
+
+That's correct!
+
+Round 45 / 50
+  What is the latitude (degrees) of the zip code 88032? 
+32.399562
+
+That's correct!
+
+Round 46 / 50
+  What is the latitude (degrees) of the zip code 45417? 
+
+That's correct!
+
+Round 46 / 50
+  What is the latitude (degrees) of the zip code 45417? 
+39.735172
+
+That's correct!
+
+Round 47 / 50
+  What is the land area (m^2) of the zip code 89423? 
+
+That's correct!
+
+Round 47 / 50
+  What is the land area (m^2) of the zip code 89423? 
+179370927
+
+That's correct!
+
+Round 48 / 50
+  What is the water area (m^2) of the zip code 08029? 
+
+That's correct!
+
+Round 48 / 50
+  What is the water area (m^2) of the zip code 08029? 
+27864
+
+That's correct!
+
+Round 49 / 50
+  What is the longitude (degrees) of the zip code 48230? 
+
+That's correct!
+
+Round 49 / 50
+  What is the longitude (degrees) of the zip code 48230? 
+-82.921842
+
+That's correct!
+
+Round 50 / 50
+  What is the longitude (degrees) of the zip code 55749? 
+
+That's correct!
+
+Round 50 / 50
+  What is the longitude (degrees) of the zip code 55749? 
+-92.443315
+
+That's correct!
+
+You succeeded! Here's the flag:
+easyctf{hope_you_liked_parsing_tsvs!}
+
+
